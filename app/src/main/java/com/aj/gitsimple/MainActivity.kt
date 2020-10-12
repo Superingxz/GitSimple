@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         Log.e("main","dev create")
         Log.e("main","dev-mor create")
+        Log.e("main","dev-huawei create")
     }
 }
