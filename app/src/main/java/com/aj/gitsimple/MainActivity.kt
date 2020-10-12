@@ -11,5 +11,6 @@ class MainActivity : AppCompatActivity() {
         Log.e("main","dev create")
         Log.e("main","dev-mor create")
         Log.e("main","dev-huawei create")
+        Log.e("main","dev-zhi create")
     }
 }
