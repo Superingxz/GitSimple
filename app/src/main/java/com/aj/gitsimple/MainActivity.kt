@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         Log.e("main","dev create")
         Log.e("main","dev_zhi create")
+        Log.e("main","maser update1")
     }
 }
